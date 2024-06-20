@@ -1,4 +1,5 @@
 
+//mail:royrachbuch@gmail.com
 
 #include "doctest.h"
 #include "Algorithms.hpp"

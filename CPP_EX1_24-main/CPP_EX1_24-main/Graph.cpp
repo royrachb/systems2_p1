@@ -1,3 +1,4 @@
+//mail:royrachbuch@gmail.com
 #include "Graph.hpp"
 #include <sstream>
 #include <stdexcept>
